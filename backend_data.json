@@ -1,0 +1,7 @@
+[
+    {"id": 0, "name": "barack", "occ": "prez", "interests": ["reading", "comics", "science"]},
+    {"id": 1, "name": "alec", "occ": "coder", "interests": ["fitness", "comics", "science"]},
+    {"id": 2, "name": "kim", "occ": "singer", "interests": ["basketball", "comics", "art"]},
+    {"id": 3, "name": "bill", "occ": "builder", "interests": ["running", "fishing", "bikes"]},
+    {"id": 4, "name": "lamar", "occ": "rapper", "interests": ["football", "comics", "science"]}
+]
