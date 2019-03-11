@@ -1,3 +1,3 @@
-// require
+let bed = require('./backend_data.json')
 
-console.log('data')
+console.log(bed)
